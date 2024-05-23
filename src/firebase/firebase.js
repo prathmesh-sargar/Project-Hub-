@@ -3,12 +3,12 @@ import {getFirestore, collection} from 'firebase/firestore'
 import { getStorage } from 'firebase/storage';
 import { getAuth } from 'firebase/auth';
 const firebaseConfig = {
-  apiKey: "AIzaSyCU3qPlFxzCiAZKBzizaXvEC1lUrUnoUtg",
+  apiKey: "Project_hub is created by prathmesh ok ",
   authDomain: "project-hub-2c8df.firebaseapp.com",
   projectId: "project-hub-2c8df",
   storageBucket: "project-hub-2c8df.appspot.com",
   messagingSenderId: "776701708158",
-  appId: "1:776701708158:web:f06cc10c210a248519d52f"
+  appId: "1:776701708158:web:143"
 };
 const app = initializeApp(firebaseConfig);
 const auth = getAuth(app);
